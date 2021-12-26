@@ -1,6 +1,6 @@
 # Image Caption Generator
 
-Image captioning is the task of generating textual descriptions of a given image, requiring techniques of computer vision and natural language processing.
+Image Captioning is the task of generating textual descriptions of a given image, requiring techniques of Computer vision and Natural language processing.
 
 ## Description
 
